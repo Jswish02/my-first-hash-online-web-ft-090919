@@ -7,9 +7,7 @@ end
 
 def shipping_manifest
   the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
-  if the_manifest ={"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
-    puts "We have #{the_manifest}"
-  end
+  
 end
 
 end
@@ -21,7 +19,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  # Look up the value of the "oil paintings" key in the shipping_manifest hash below
+  oil_p
 
 end
 
